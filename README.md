@@ -161,5 +161,6 @@ pandas
 
 This repository serves as a practical demonstration of **data poisoning risks** in ML pipelines and the importance of **tracking experiments**, **verifying data integrity**, and **designing robust models**.
 
-## Auther
+## Author
 Karan Shrivastava
+**Contact:** [karanshrivastava00@gmail.com](mailto:karanshrivastava00@gmail.com)
